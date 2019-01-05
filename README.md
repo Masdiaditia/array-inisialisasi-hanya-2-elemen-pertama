@@ -1,0 +1,1 @@
+# array-inisialisasi-hanya-2-elemen-pertama
